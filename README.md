@@ -1,3 +1,8 @@
+## 📈 Progress Tracker
+
+![Progress](https://img.shields.io/badge/Problems%20Solved-120+-brightgreen)
+![Difficulty](https://img.shields.io/badge/Easy-Medium-Hard-blue)
+![Language](https://img.shields.io/badge/Language-Java-orange)
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p>
