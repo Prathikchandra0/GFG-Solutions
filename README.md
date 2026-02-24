@@ -8,7 +8,7 @@
   Engineering Problem Solving Mindset
 </p>
 
-<h1 align="center">⚡ GFG DSA Archive</h1>
+
 
 <p align="center">
   Engineering Problem Solving Mindset
