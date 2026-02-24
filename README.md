@@ -1,2 +1,9 @@
-# GFG-Solutions
-This repository serves as a collection of my solutions to various GeeksforGeeks Data Structures and Algorithms (DSA) problems, organized by the level of difficulty. - Created using [GfG To GitHub](https://github.com/AtharvaNanavate/GfG-To-GitHub)
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
+
+<h1 align="center">GFG Solutions 🚀</h1>
+
+<p align="center">
+  Structured Data Structures & Algorithms Practice Repository
+</p>
