@@ -1,10 +1,7 @@
-## 📈 Progress Tracker
+<h1 align="center">GFG Solutions 🚀</h1>
 
-![Progress](https://img.shields.io/badge/Problems%20Solved-120+-brightgreen)
-![Difficulty](https://img.shields.io/badge/Easy-Medium-Hard-blue)
-![Language](https://img.shields.io/badge/Language-Java-orange)
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Structures+%26+Algorithms;Problem+Solving+Journey;GeeksforGeeks+Practice;Consistency+%3D+Growth&center=true&width=500&height=45">
 </p>
 
 <h1 align="center">⚡ GFG DSA Archive</h1>
