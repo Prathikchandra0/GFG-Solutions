@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">GFG Solutions</h1>
+<h1 align="center">⚡ GFG DSA Archive</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mastering+Data+Structures;Solving+Algorithms+Daily;Consistency+Builds+Skill;Leveling+Up+One+Problem+At+A+Time&center=true&width=500&height=45">
+  Engineering Problem Solving Mindset
 </p>
 
 <h1 align="center">⚡ GFG DSA Archive</h1>
