@@ -8,11 +8,6 @@
   Engineering Problem Solving Mindset
 </p>
 
-
-
-<p align="center">
-  Engineering Problem Solving Mindset
-</p>
 # GFG Solutions 🚀
 
 A structured collection of Data Structures and Algorithms solutions categorized by topic and difficulty.
